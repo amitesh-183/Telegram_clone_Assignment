@@ -1,8 +1,25 @@
-# React + Vite
+# Telegram Clone Assignment Submission by B.Amitesh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Live Link
 
-Currently, two official plugins are available:
+- [clone](https://telegram-clone-assignment-ten.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Details
+
+- Name : B.Amitesh
+- Role : Frontend Developer
+- Task : Telegram Clone Assignment Submission
+- Company : BeyoundChats
+
+# Tech Stack :
+
+- React Js
+- Tailwind CSS
+- MUI (due to less time I haven't used It)
+
+# File Structure :
+
+- src/assets/images/
+- src/assets/svg/
+- src/components/
+- src/pages/
