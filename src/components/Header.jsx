@@ -252,7 +252,7 @@ const Header = () => {
         <input
           type="text"
           placeholder="Search"
-          className=" bg-transparent px-2 py-2 rounded-full placeholder:text-gray-800 dark:placeholder:text-white outline-none text-gray-700"
+          className=" bg-transparent px-2 py-2 rounded-full placeholder:text-gray-800 dark:placeholder:text-white outline-none dark:text-white text-gray-700"
         />
       </div>
       <div
